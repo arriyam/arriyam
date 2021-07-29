@@ -3,7 +3,7 @@
 In short, I fell in love with Computer Science realizing just how much it pushes our world to the future.
 
 - 🔭 I’m currently working on a sketch app that is cross platform with the web and Android. Interested?  Take a look at my repository.
-- 👯 I’m looking forward to joining the RBC Innovation Developer team this summer.
+- 👯 I’m a RBC Innovation Developer for this summer.
 - 💬 Have a couple hours to spare…? Come chat with me about Computer Science.
 - 📫 How to reach me: thushenarriyam@gmail.com
 - 😄 Pronouns: he/him
