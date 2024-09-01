@@ -4,7 +4,7 @@ In short, I fell in love with Computer Science realizing just how much it pushes
 
 - 👯 I’m currently in a study term
 - 💬 Have a couple hours to spare…? Come chat with me about Computer Science.
-- 📫 How to reach me: thushenam@gmail.com
+- 📫 How to reach me: thushenam@gmail.com or thushenarriyam@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Loves Apple products but has an Android phone.
 
